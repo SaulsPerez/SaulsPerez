@@ -9,7 +9,7 @@
 [CSS-shield]: https://img.shields.io/badge/CSS-264fdd?style=for-the-badge&logo=CSS3&logoColor=white
 [Angular-shield]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Ionic-shield]: https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white
-[Strapi-shield]: https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white
+[Strapi-shield]: https://img.shields.io/badge/Strapi-4e26e0?style=for-the-badge&logo=strapi&logoColor=white
 [SQLServer-shield]: https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
 [MySQL-shield]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
 
@@ -40,21 +40,21 @@ I'm excited to continue growing and learning in the field of programming, and I'
 ## Skills
 
 ### Programming Languages
-- JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-d5b70b?style=for-the-badge&logo=javascript&logoColor=white)
-- Java ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-- C ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- TypeScript ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-d5b70b?style=for-the-badge&logo=javascript&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Web Technologies
-- HTML ![HTML](https://img.shields.io/badge/HTML-f57b00?style=for-the-badge&logo=html5&logoColor=white)
-- CSS ![CSS](https://img.shields.io/badge/CSS-264fdd?style=for-the-badge&logo=CSS3&logoColor=white)
-- Angular ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-- Ionic ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-- Strapi ![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML-f57b00?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-264fdd?style=for-the-badge&logo=CSS3&logoColor=white)
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+- ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+- ![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
 
 ### Databases
-- SQL Server ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-- MySQL ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 Feel free to reach out to me if you have any questions, suggestions, or opportunities for collaboration. Let's connect and create something amazing together!
