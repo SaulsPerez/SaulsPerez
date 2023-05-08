@@ -10,9 +10,9 @@ I'm excited to continue growing and learning in the field of programming, and I'
 ## Skills
 
 ### Programming Languages
-- JavaScript ![JavaScript](https://www.example.com/javascript-logo.png)
-- Java ![Java](https://www.example.com/java-logo.png)
-- C ![C](https://www.example.com/c-logo.png)
+- JavaScript ![JavaScript](https://cdn.iconscout.com/icon/free/png-256/javascript-23-1174949.png)
+- Java ![Java](https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png)
+- C ![C](https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png)
 - Python ![Python](https://www.example.com/python-logo.png)
 - TypeScript ![TypeScript](https://www.example.com/typescript-logo.png)
 
