@@ -33,6 +33,16 @@
 [email-url]: mailto:saul.sanchez.perez@icloud.com
 [website-url]: https://portafolio-saul.netlify.app
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+- [About Me](#about-me)
+  - [Skills](#skills)
+    - [Programming Languages](#programming-languages)
+    - [Web Technologies](#web-technologies)
+    - [Databases](#databases)
+- [Contact Me](#contact-me)
 
 # Hello, World! 👋
 ## About Me
