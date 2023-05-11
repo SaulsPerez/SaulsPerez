@@ -36,13 +36,21 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
-- [About Me](#about-me)
-  - [Skills](#skills)
-    - [Programming Languages](#programming-languages)
-    - [Web Technologies](#web-technologies)
-    - [Databases](#databases)
-- [Contact Me](#contact-me)
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-me">About Me</a></li>
+    <li>
+      <a href="#skills">Skills</a>
+      <ul>
+        <li><a href="#programming-languages">Programming Languages</a></li>
+        <li><a href="#web-technologies">Web Technologies</a></li>
+        <li><a href="#databases">Databases</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact-me">Contact Me</a></li>
+  </ol>
+</details>
 
 # Hello, World! 👋
 ## About Me
