@@ -15,6 +15,7 @@
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [email-shield]: https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 [website-shield]: https://img.shields.io/badge/website-0077B5?style=for-the-badge
+[Node.js-shield]: https://img.shields.io/badge/node.js-79b300?style=for-the-badge&logo=node.js&logoColor=white
 
 <!-- Logo URLs -->
 [JavaScript-url]: https://www.example.com/javascript-logo.png
@@ -30,6 +31,7 @@
 [SQLServer-url]: https://www.example.com/sql-server-logo.png
 [MySQL-url]: https://www.example.com/mysql-logo.png
 [linkedin-url]: https://www.linkedin.com/in/sa%C3%BAl-s%C3%A1nchez-a3b72b1bb
+[Node.js-url]: https://www.example.com/node.js-logo.png
 [email-url]: mailto:saul.sanchez.perez@icloud.com
 [website-url]: https://portafolio-saul.netlify.app
 
@@ -73,6 +75,7 @@ I'm excited to continue growing and learning in the field of programming, and I'
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 - ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 - ![Strapi](https://img.shields.io/badge/Strapi-4e26e0?style=for-the-badge&logo=strapi&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/node.js-79b300?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Databases
 - ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
