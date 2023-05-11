@@ -33,8 +33,7 @@
 [email-url]: mailto:saul.sanchez.perez@icloud.com
 [website-url]: https://portafolio-saul.netlify.app
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
+# Hello, World! 👋
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -51,8 +50,6 @@
     <li><a href="#contact-me">Contact Me</a></li>
   </ol>
 </details>
-
-# Hello, World! 👋
 ## About Me
 My name is Saul and I'm from Coahuila, Mexico. Ever since I discovered videos about new technologies, I became passionate about programming and decided to pursue a professional career in this field.
 
