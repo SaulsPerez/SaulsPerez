@@ -8,6 +8,7 @@
 [HTML-shield]: https://img.shields.io/badge/HTML-f57b00?style=for-the-badge&logo=html5&logoColor=white
 [CSS-shield]: https://img.shields.io/badge/CSS-264fdd?style=for-the-badge&logo=CSS3&logoColor=white
 [Angular-shield]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[React-shield]: https://img.shields.io/badge/React-DD0031?style=for-the-badge&logo=react&logoColor=white
 [Ionic-shield]: https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white
 [Strapi-shield]: https://img.shields.io/badge/Strapi-4e26e0?style=for-the-badge&logo=strapi&logoColor=white
 [SQLServer-shield]: https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
@@ -26,6 +27,7 @@
 [HTML-url]: https://www.example.com/html-logo.png
 [CSS-url]: https://www.example.com/css-logo.png
 [Angular-url]: https://www.example.com/angular-logo.png
+[React-url]: https://www.example.com/react-logo.png
 [Ionic-url]: https://www.example.com/ionic-logo.png
 [Strapi-url]: https://www.example.com/strapi-logo.png
 [SQLServer-url]: https://www.example.com/sql-server-logo.png
@@ -73,6 +75,7 @@ I'm excited to continue growing and learning in the field of programming, and I'
 - ![HTML](https://img.shields.io/badge/HTML-f57b00?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS-264fdd?style=for-the-badge&logo=CSS3&logoColor=white)
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+- ![React](https://img.shields.io/badge/React-5bcdeb?style=for-the-badge&logo=react&logoColor=white)
 - ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 - ![Strapi](https://img.shields.io/badge/Strapi-4e26e0?style=for-the-badge&logo=strapi&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/node.js-79b300?style=for-the-badge&logo=node.js&logoColor=white)
