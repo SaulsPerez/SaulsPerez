@@ -66,8 +66,9 @@ I'm excited to continue growing and learning in the field of programming, and I'
 
 ### Programming Languages
 - ![JavaScript](https://img.shields.io/badge/JavaScript-d5b70b?style=for-the-badge&logo=javascript&logoColor=white)
-- ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white)
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- ![C#](https://img.shields.io/badge/C♯-390091?style=for-the-badge&logo=c#&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
